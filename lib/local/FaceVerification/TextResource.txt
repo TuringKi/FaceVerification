@@ -1,0 +1,8 @@
+Eye Blink Verify:	It's time out when eye blink
+Eye Blink Verify:	Eye blink Count: %d	
+Face Verify:		It's time out when verifier face
+Predict Face:		perdict Score : %f, user:[ iceman ]
+Pridcit FAce:		Face Verifier Count %d & Face Verifier Succeed
+Training Face:		Get Face image: %d
+
+
